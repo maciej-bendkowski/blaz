@@ -20,9 +20,11 @@ Blaz provides a CLI interface. Available features include:
 
 ## Building & installation
 Blaz is packaged using cabal. In order to build from source use:
-> cabal configure
-> cabal build
-> cabal install
+```
+cabal configure
+cabal build
+cabal install
+```
 
 ## References
 Blaz was created on the basis of the following articles and technical reports:
