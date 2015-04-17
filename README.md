@@ -16,7 +16,7 @@ Blaz provides a CLI interface. Available features include:
   used.
 
 ## Usage
-> ./blaz -?
+> blaz -?
 
 ## Building & installation
 Blaz is packaged using cabal. In order to build from source use:
